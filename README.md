@@ -42,7 +42,7 @@ Resume Insights allows you to:
 3. Click on the Compare thie *CV to teh Job ad* button 
 4. Type **"/questions"**
 
-URL: [https://chat.openai.com/g/g-iwZ122rWi-resume-insights]https://chat.openai.com/g/g-iwZ122rWi-resume-insights)
+URL: [https://chat.openai.com/g/g-iwZ122rWi-resume-insights](https://chat.openai.com/g/g-iwZ122rWi-resume-insights)
 
 
 *Warning: The quality of outputs may vary depending on how OpenAI updates GPT-4, it may be either worse or better than a few weeks ago.
