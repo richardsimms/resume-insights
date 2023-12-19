@@ -10,7 +10,7 @@ Donations accepted:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rsimms)
 
-![image](https://www.resumeinsights.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FInterview-questions.1b697738.jpg&w=3840&q=75)
+![image](https://www.resumeinsights.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FInterview-questions.8166a89d.jpg&w=1080&q=75)
 
 
 ## Why Resume Insights?
