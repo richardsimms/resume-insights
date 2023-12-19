@@ -42,7 +42,7 @@ Resume Insights allows you to:
 3. Click on the Compare thie *CV to teh Job ad* button 
 4. Type **"/questions"**
 
-URL: [Resume insights GPT](https://chat.openai.com/g/g-iwZ122rWi-resume-insights)
+URL: [https://chat.openai.com/g/g-iwZ122rWi-resume-insights](Resume insights GPT)
 
 Alternatively, you can copy and paste [the prompt](https://github.com/richardsimms/resume-insights/blob/main/Resume_Insights.txt) into **ChatGPT with Code Interpreter**
 
